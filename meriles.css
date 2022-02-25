@@ -1,0 +1,49 @@
+.img{
+    display: flex;
+    height: 230px;
+    width: 248px;
+    padding-left: 10px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-right: 9px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+}
+.pr-st{
+    font-weight: 100px;
+    color: black;
+
+}
+.attribution { font-size: 11px; 
+    text-align: center; 
+color: hsl(228, 45%, 44%);}
+.box{
+    width: 257px;
+    height: 410px;
+    background-color: white;
+    padding-left: 8px;
+    margin-left: 200px;
+    margin-top: 160px;
+    color: black;
+    border-radius: 20px;
+    padding-right: 2px;
+    padding-bottom: 10px;
+}
+
+    
+.container{
+    width: 500px;
+    height: 434px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 200px;
+}
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.pr-one{
+    font-weight: 150px;
+    font-size: larger;
+}
